@@ -103,3 +103,6 @@ wrapt==1.11.*
 
 # zipp 2.0.0 requires Python >= 3.6
 zipp==1.0.0
+
+# stevedore 2.0.0 requires python >= 3.6
+stevedore<2.0.0
